@@ -21,6 +21,12 @@ Our First Teacher is Mr. Flan and his secretary is Madoka Khan-chan-sama.
 
 ## Resources
 
-Max Naylor and wordpreference.com - Heard first in the BA Islenska sem annað mál 2021-2024 fæsbók hópmenn.
-[Awesome Reykjavík by Jökull Solberg aka awesome-rvk.is - https://web.archive.org/web/20240927012447/https://www.awesome-rvk.is/](https://web.archive.org/web/20240927012447/https://www.awesome-rvk.is/)
+Max Naylor and wordpreference.com - Heard first in the BA Islenska sem annað mál 2021-2024 fæsbók hópmenn. \
+[Awesome Reykjavík by Jökull Solberg aka awesome-rvk.is - https://web.archive.org/web/20240927012447/https://www.awesome-rvk.is/](https://web.archive.org/web/20240927012447/https://www.awesome-rvk.is/) \
+ensk.is or https://blog.judyyfong.xyz/books/iceland/2022/04/28/baekur_is.html or https://baekur.is/bok/7fd33ef4-f3ab-456d-9239-ec281aa6b5da or \
+mcc.is = https://web.archive.org/web/20240927012712/https://mcc.is/
+
+## Authors/Editors
+
+Judy Y. Fong = https://www.linkedin.com/in/judy-y-fong or to mess with linkedin: https://linkedin.com/judyyfong
 
