@@ -1,5 +1,5 @@
-# Menntaskólinn í Hamraborg
-## University-of-Reykjavik
+# Menntaskólinn í Hamraborg við strönd
+## University-of-Reykjavik, Íslande
 
 Associated names are Tweak25 or BorgarHiminnlínan og SilfurEggið
 
@@ -9,6 +9,10 @@ This is a parody school that legitimately teaches icelandic. It is icelandic int
 # Community Standards and Guidelines
 First hiring practice. We only hire people who know more than no Icelandic at all, nothing more. Second hiring practice is we only hire people whose names start 
 with an M or E like Em who can´t find a job anywhere else. If your nickname starts with an m or e then you qualify to make a pull request. Otherwise your requests 
-are delegated only to the Issues section of this repo. If you github name starts with a p or l then you're also banned from submitting issues or pull requests as well.
+are delegated only to the Issues section of this repo. If you GitHub name starting við a p or l phonetically then you're also banned from submitting issues or pull requests as well. Issues from everyone is encouraged especially accounts named ihaveissues or ihafissues iizissues
 
-Our First Teacher is Mr. Flan and his secretary is Madoka K.
+Our First Teacher is Mr. Flan and his secretary is Madoka Khan-chan-sama.
+
+## Lessons
+
+snemma, bráðum, pronto, soon, bientot, tot, tuddles, toodloo, whatevs. Bientot?
