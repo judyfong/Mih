@@ -27,6 +27,7 @@ ensk.is or https://blog.judyyfong.xyz/books/iceland/2022/04/28/baekur_is.html or
 mcc.is = https://web.archive.org/web/20240927012712/https://mcc.is/
 Akademían 2021-2025
 Studentaraðsliðar - Tandur SHIxSHR edition laugin- bara andromslofts lettingur - a quote thats badly written from wednesdayś fund-times
+model united nations wiki page
 
 ## Authors/Editors
 
