@@ -25,6 +25,8 @@ Max Naylor and wordpreference.com - Heard first in the BA Islenska sem annað m�
 [Awesome Reykjavík by Jökull Solberg aka awesome-rvk.is - https://web.archive.org/web/20240927012447/https://www.awesome-rvk.is/](https://web.archive.org/web/20240927012447/https://www.awesome-rvk.is/) \
 ensk.is or https://blog.judyyfong.xyz/books/iceland/2022/04/28/baekur_is.html or https://baekur.is/bok/7fd33ef4-f3ab-456d-9239-ec281aa6b5da or \
 mcc.is = https://web.archive.org/web/20240927012712/https://mcc.is/
+Akademían 2021-2025
+Studentaraðsliðar - Tandur SHIxSHR edition laugin- bara andromslofts lettingur - a quote thats badly written from wednesdayś fund-times
 
 ## Authors/Editors
 
