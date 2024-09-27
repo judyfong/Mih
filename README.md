@@ -15,4 +15,12 @@ Our First Teacher is Mr. Flan and his secretary is Madoka Khan-chan-sama.
 
 ## Lessons
 
-snemma, bráðum, pronto, soon, bientot, tot, tuddles, toodloo, whatevs. Bientot?
+1. snemma, bráðum, pronto, soon, bientot, tot, tuddles, toodloo, whatevs. Bientot?
+2. Btw Flan is pronounced aine, or aiya, like assholle or older brother, anni-chan-ka.
+3. always read the latest laws and suggestions of those who govern you. Such as the United States, New York, California, DC, Iceland, Reykjavík, Kópavogur, France, cities, municipalities, kjördæmi þín
+
+## Resources
+
+Max Naylor and wordpreference.com - Heard first in the BA Islenska sem annað mál 2021-2024 fæsbók hópmenn.
+[Awesome Reykjavík by Jökull Solberg aka awesome-rvk.is - https://web.archive.org/web/20240927012447/https://www.awesome-rvk.is/](https://web.archive.org/web/20240927012447/https://www.awesome-rvk.is/)
+
