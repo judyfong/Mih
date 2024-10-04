@@ -4,11 +4,11 @@
 ## Verkefni 1
 Your first lesson of the day is to learn these five vocabulary words:
 
-1. kunta,
-2. lóka,
-3. kippi í,
-4. hryllingshús,
-5. á,
+1. kunta
+2. lóka
+3. kippa í
+4. hryllingshús
+5. á
 6. banani
 
 It is your assignment or homework to translate them to English and find the correct dictionary form.
