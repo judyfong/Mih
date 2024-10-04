@@ -1,6 +1,8 @@
 # Menntaskólinn í Hamraborg við strönd
 ## University-of-Reykjavik, Íslande
 
+If you are looking for Reykjavík University or Háskólinn í Reykjavík that is at https://ru.is , not here. We are in no way affiliated or associated.
+
 Associated names are Tweak25 or BorgarHiminnlínan og SilfurEggið
 
 This is a parody school that legitimately teaches icelandic. It is icelandic intended to annoy people just as the mistaken translation, University of Reykjavík annoys me because people can´t even pay attention to this kind of smá atriði á ensku. I call it simple Icelandic. We focus on slang and curse words. Non-standard grammar is encouraged.
@@ -20,6 +22,7 @@ Our First Teacher is Mr. Flan and his secretary is Madoka Khan-chan-sama of the 
 3. always read the latest laws and suggestions of those who govern you. Such as the United States, New York, California, DC, Iceland, Reykjavík, Kópavogur, France, cities, municipalities, kjördæmi þín
 
 [Lesson 1](/lessons/lesson-1.md)
+[Lesson 2](/lessons/lesson-2.md)
 
 ## Resources
 
