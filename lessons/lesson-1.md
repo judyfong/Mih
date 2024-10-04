@@ -4,11 +4,16 @@
 ## Verkefni 1
 Your first lesson of the day is to learn these five vocabulary words:
 
-kunta, lóka, kippi í, hyllingshús, á, banani
+1. kunta,
+2. lóka,
+3. kippi í,
+4. hryllingshús,
+5. á,
+6. banani
 
-It is your job to translate them to English and find the correct dictionary form.
+It is your assignment or homework to translate them to English and find the correct dictionary form.
 
-We recommend the book Islenska fyrir Útlengindar. It is sold by Bóksala Stúdenta: https://www.boksala.is/
+We recommend the book [Íslenska fyrir Útlendinga](https://haskolautgafan.is/products/islenska-fyrir-utlendinga). It is published by Háskólaútgáfan (e. University Publisher) and it is sold by them and by [Bóksala Stúdenta](https://www.boksala.is/).
 
 ## Verkefni 2
 
