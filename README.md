@@ -3,7 +3,7 @@
 
 Associated names are Tweak25 or BorgarHiminnlínan og SilfurEggið
 
-This is a parody school that legitimately teaches icelandic. It is icelandic intended to annoy people just as the mistaken translation, University of Reykjavík annoys me because people can´t even pay attention to this kind of smá atriði á ensku. I call it simple Icelandic. We focus on slang and curse words. Bad grammar is encouraged.
+This is a parody school that legitimately teaches icelandic. It is icelandic intended to annoy people just as the mistaken translation, University of Reykjavík annoys me because people can´t even pay attention to this kind of smá atriði á ensku. I call it simple Icelandic. We focus on slang and curse words. Non-standard grammar is encouraged.
 
 
 # Community Standards and Guidelines
@@ -38,6 +38,10 @@ Our First Teacher is Mr. Flan and his secretary is Madoka Khan-chan-sama of the 
 ## Authors/Editors
 
 Judy Y. Fong = https://www.linkedin.com/in/judy-y-fong or to mess with linkedin: https://linkedin.com/judyyfong
+
+## Acknowledgements
+
+H. Simonson, pro bono consultant
 
 ## Donations
 
