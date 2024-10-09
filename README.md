@@ -21,7 +21,7 @@ Our First Teacher is Mr. Flan and his secretary is Madoka Khan-chan-sama of the 
 2. Btw Flan is pronounced aine, or aiya, like assholle or older brother, anni-chan-ka.
 3. always read the latest laws and suggestions of those who govern you. Such as the United States, New York, California, DC, Iceland, Reykjavík, Kópavogur, France, cities, municipalities, kjördæmi þín
 
-[Lesson 1](/lessons/lesson-1.md)
+[Lesson 1](/lessons/lesson-1.md) \
 [Lesson 2](/lessons/lesson-2.md)
 
 ## Resources
