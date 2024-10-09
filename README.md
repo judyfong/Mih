@@ -1,7 +1,8 @@
 # Menntaskólinn í Hamraborg við strönd
-## University-of-Reykjavik, Íslande
+<!-- ## University-of-Reykjavik, Íslande
 
 If you are looking for Reykjavík University or Háskólinn í Reykjavík that is at https://ru.is , not here. We are in no way affiliated or associated.
+-->
 
 Associated names are Tweak25 or BorgarHiminnlínan og SilfurEggið
 
