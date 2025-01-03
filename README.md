@@ -36,6 +36,7 @@ Our First Teacher is Mr. Flan and his secretary is Madoka Khan-chan-sama of the 
 - Studentaraðsliðar - Tandur SHIxSHR edition laugin- bara andromslofts lettingur - a quote thats badly written from wednesdayś fund-times
 - model united nations wiki page
 - Book: [Hljóð og hlustun eftir María Garðarsdóttir og Sigríður Þorvaldsdóttir](https://malvis.hi.is/is/hljod-og-hlustun)
+- Book: [Sagnasyrpa](https://haskolautgafan.is/products/sagnasyrpa)
 - [https://projects.judyyfong.xyz/ISE - A student website for the ISE program at the University of Iceland](https://projects.judyyfong.xyz/ISE/)
 - Glossary/Orðabók: [Dictionary](https://projects.judyyfong.xyz/dictionary)
 - [Audio Phrase Bank](https://judyfong.bitbucket.io/)
