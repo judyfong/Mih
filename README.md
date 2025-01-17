@@ -25,7 +25,8 @@ Our First Teacher is Mr. Flan and his secretary is Madoka Khan-chan-sama of the 
 [Lesson 1](/lessons/lesson-1.md) \
 [Lesson 2](/lessons/lesson-2.md) \
 [Lesson 3](/lessons/lesson-3.md) \
-[Lesson 4](/lessons/lesson-4.md)
+[Lesson 4](/lessons/lesson-4.md) \
+[Lesson 5](/lessons/lesson-5.md)
 
 ## Resources
 
