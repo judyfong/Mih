@@ -7,3 +7,5 @@ Oliver Twist, Fagin, Hrappur, Sikes, and herra Bumble.
 
 5. Learn these vocabulary words: http://projects.judyyfong.xyz/dictionary/books.csv
 6. For each chapter, come up with three questions about what happened.
+
+7. Find two mistakes in the book. 
