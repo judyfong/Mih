@@ -23,6 +23,8 @@ Our First Teacher is Mr. Flan and his secretary is Madoka Khan-chan-sama of the 
 3. always read the latest laws and suggestions of those who govern you. Such as the United States, New York, California, DC, Iceland, Reykjavík, Kópavogur, France, cities, municipalities, kjördæmi þín
 4. Google anything you need in Icelandic with exactly the right search terms
 
+5. Practice mindfulness in Icelandic https://soundcloud.com/hamingjan
+
 [Lesson 1](/lessons/lesson-1.md) \
 [Lesson 2](/lessons/lesson-2.md) \
 [Lesson 3](/lessons/lesson-3.md) \
