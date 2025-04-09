@@ -6,4 +6,4 @@ Take this test aimed for Icelanders who are 15 in the 10th grade and pass https:
 
 https://mms.is/eldri-prof-og-svor
 
-The tests aimed for Fourth graders are close to a CEFR B2. Meanwhile the test for Seventh graders is like a CEFR C1 and finally the test for Tenth graders is like a CEFR C2. 
+The tests aimed for Fourth graders are close to a CEFR B2. Meanwhile the test for Seventh graders is like a CEFR C1 and finally the test for Tenth graders is like a CEFR C2 or advanced C1. 
