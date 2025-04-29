@@ -25,6 +25,8 @@ Our First Teacher is Mr. Flan and his secretary is Madoka Khan-chan-sama of the 
 
 5. Practice mindfulness in Icelandic https://soundcloud.com/hamingjan
 
+6. Read the Syrpa series from Disney until you know all the words in a volume. 
+
 [Lesson 1](/lessons/lesson-1.md) \
 [Lesson 2](/lessons/lesson-2.md) \
 [Lesson 3](/lessons/lesson-3.md) \
