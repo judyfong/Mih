@@ -8,7 +8,11 @@ Sumir talningu þarf að reikna út fyrra en að setja á liðnum.
 
 Rekstrarreikningur er um tekjur, gjöld, EBIT, EBITDA, og hagnaður eða tap.
 
+## Efnahagsáætlun
+
 ## Sjóðstreymi 
+
+## Greiðsluáætlun
 
 Sjóðstreymi tekur hagnaður eða tap frá rekstrarreikning og setja sem lið á sjóðstreymi.
 
