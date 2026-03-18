@@ -5,3 +5,7 @@ Fjárhagsáætlun er einnig kallað Rekstraráætlun. Innihaldi eru fjórar ský
 ## Rekstrarreikningur
 
 Rekstrarreikningur er um tekjur, gjöld, EBIT, EBITDA, og hagnaður eða tap.
+
+#Orðaskrá 
+
+https://github.com/judyfong/dictionary/blob/master/classes%2Frekstrarbokhald.csv
