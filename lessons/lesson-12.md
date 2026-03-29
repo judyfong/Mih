@@ -1,6 +1,6 @@
 # Financial Ratios
 
-heres a list ftom the Canadian CFA Institute - https://www.cfainstitute.org/sites/default/files/-/media/documents/support/programs/cfa/cfa_program_level_ii_financial_ratio_list.pdf
+heres a list from the Canadian CFA Institute - https://www.cfainstitute.org/sites/default/files/-/media/documents/support/programs/cfa/cfa_program_level_ii_financial_ratio_list.pdf
 
 Icelandic list
 
