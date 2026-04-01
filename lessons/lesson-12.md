@@ -12,3 +12,6 @@ Flokkar kennitalna
 * Kennitölur um arðsemi
 * Sjóðstreymiskennitölur
 * Kennitölur á hlutabréfamarkaði
+
+
+verðmæti = breytilegir kostnaður x einingar
