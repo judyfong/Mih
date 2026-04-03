@@ -15,3 +15,8 @@ Flokkar kennitalna
 
 
 verðmæti = breytilegir kostnaður x einingar
+
+öryggismörk = áætluð sala - sala við nullpunktur
+
+öryggismörk í prósentum = öryggishlutfall
+öryggismörk í prósentum = öryggismörk í einingum / áætluð sala
