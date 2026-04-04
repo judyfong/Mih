@@ -24,3 +24,5 @@ verðmæti = breytilegir kostnaður x einingar
 
 öryggismörk í prósentum = öryggishlutfall
 öryggismörk í prósentum = öryggismörk í einingum / áætluð sala
+
+framlegðarhlutfall = EBITDA / Sala
