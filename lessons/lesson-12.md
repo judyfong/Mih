@@ -2,6 +2,8 @@
 
 heres a list from the Canadian CFA Institute - https://www.cfainstitute.org/sites/default/files/-/media/documents/support/programs/cfa/cfa_program_level_ii_financial_ratio_list.pdf
 
+contribution ratio
+
 Icelandic list
 
 Flokkar kennitalna
@@ -13,6 +15,8 @@ Flokkar kennitalna
 * Sjóðstreymiskennitölur
 * Kennitölur á hlutabréfamarkaði
 
+
+https://www.stjornarradid.is/media/atvinnuvegaraduneyti-media/media/vidurkenndir-bokarar/Kennitolur-Formulublad-2014.doc.pdf
 
 verðmæti = breytilegir kostnaður x einingar
 
