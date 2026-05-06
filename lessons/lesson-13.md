@@ -16,3 +16,7 @@ Kostnaðarverð framleiddra vara = Verk í vinnslu í upphafi tímabils + Framle
 ### Hvernig virkja verkbókhald?
 
 Verkbókhald er þegar útgjöld reikninginn fer eftir hvert verk. að reikna eignir í fyrirtæki hafa ekki við í þessu hugtak. verkbókhald nota tímabilskostnaður sem er óbeinn og er ekki óbeinn framleiðslukostnaður. Hráefnisbirgðir er notaði eða reiknað eða hafa við í verk í vinnslu.
+
+## Hvernig gerir dagbókarfærslan með verk kostnaður?
+
+Þegar reikna ut af framleiðslukostnaður, debit að minnsta kosti einum af þessum þremur reikninginn: Hráefnisbirgðir,Framleiðslulaun eða Beint laun, og Óbeinn framleiðslukostnaður.
