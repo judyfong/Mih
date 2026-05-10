@@ -20,3 +20,5 @@ Verkbókhald er þegar útgjöld reikninginn fer eftir hvert verk. að reikna ei
 ### Hvernig gerir dagbókarfærslan með verk kostnaður?
 
 Þegar reikna ut af framleiðslukostnaður, debit að minnsta kosti einum af þessum þremur reikninginn: Hráefnisbirgðir,Framleiðslulaun eða Beint laun, og Óbeinn framleiðslukostnaður.
+
+Framleiðslueiningar eru einingar sem eru til. Innan þeirra eru sem er klárað og sent út og einnig þeim sem er óklárað og enn í vinnslu.
