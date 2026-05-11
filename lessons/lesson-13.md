@@ -27,3 +27,5 @@ Verkbókhald er þegar útgjöld reikninginn fer eftir hvert verk. að reikna ei
 Framleiðslueiningar eru einingar sem eru til. Innan þeirra eru sem er klárað og sent út og einnig þeim sem er óklárað og enn í vinnslu. Svo jafngildiseiningar vinnslukostnaðar er oft lægra talning en framleiðslueiningar.
 
 Jafngildiseingingar vegna hráefnis eru oft eins og framleiðslueiningar vegna þess hráefnis eru set inn á byrjunni af framleiðsluaðferðinni.
+
+Í CVP, hámarks-lágmarks aðferðin er notaði að reikna kostnaðarfall from hámarks verkþátt og lágmarks verkþatt. það gæti verið framleitt magn til dæmis.
