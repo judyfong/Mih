@@ -21,4 +21,9 @@ Verkbókhald er þegar útgjöld reikninginn fer eftir hvert verk. að reikna ei
 
 Þegar reikna ut af framleiðslukostnaður, debit að minnsta kosti einum af þessum þremur reikninginn: Hráefnisbirgðir,Framleiðslulaun eða Beint laun, og Óbeinn framleiðslukostnaður.
 
-Framleiðslueiningar eru einingar sem eru til. Innan þeirra eru sem er klárað og sent út og einnig þeim sem er óklárað og enn í vinnslu. Svo vinnslukostnaðar er oft lægra talning en framleiðslueiningar.
+
+### Annað
+
+Framleiðslueiningar eru einingar sem eru til. Innan þeirra eru sem er klárað og sent út og einnig þeim sem er óklárað og enn í vinnslu. Svo jafngildiseiningar vinnslukostnaðar er oft lægra talning en framleiðslueiningar.
+
+Jafngildiseingingar vegna hráefnis eru oft eins og framleiðslueiningar vegna þess hráefnis eru set inn á byrjunni af framleiðsluaðferðinni.
