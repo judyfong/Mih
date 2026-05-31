@@ -29,3 +29,7 @@ Framleiðslueiningar eru einingar sem eru til. Innan þeirra eru sem er klárað
 Jafngildiseingingar vegna hráefnis eru oft eins og framleiðslueiningar vegna þess hráefnis eru set inn á byrjunni af framleiðsluaðferðinni.
 
 Í CVP, hámarks-lágmarks aðferðin er notaði að reikna kostnaðarfall from hámarks verkþátt og lágmarks verkþatt. það gæti verið framleitt magn til dæmis.
+
+### Hvað meinar staðalverð?
+
+Staðalverð er áætlað verð. Það tekur ekki í ákvörðun hvort það er til afsláttur eða ekki.
